@@ -12,36 +12,36 @@ This is my GitHub profile where I'll be sharing my projects, experiments, and th
 
 ## Tools & Tech
 
-- 🐍 Python
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Data Analysis
-- 💻 HTML, CSS, JavaScript
-- 🗄️ SQL
-- 🔧 Git & GitHub
+-  Python
+-  Artificial Intelligence & Machine Learning
+-  Data Science & Data Analysis
+-  HTML, CSS, JavaScript
+-  SQL
+-  Git & GitHub
 
 ---
 
 ## A Bit About Me
 
 - 🎓 3rd-year AI & Data Science student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📊 Enjoy working with data and finding insights
-- 💻 Love building projects and learning new technologies
-- 🚀 Always exploring new ideas and improving my skills
+-  Interested in Artificial Intelligence & Machine Learning
+-  Enjoy working with data and finding insights
+-  Love building projects and learning new technologies
+-  Always exploring new ideas and improving my skills
 
 ---
 
 ## Currently
 
-- 📚 Learning Machine Learning & Data Science
-- 🔨 Working on AI/ML projects
-- 💡 Exploring new technologies
-- 🌱 Improving my programming and development skills
+-  Learning Machine Learning & Data Science
+-  Working on AI/ML projects
+-  Exploring new technologies
+-  Improving my programming and development skills
 
 ---
 
 ## Connect With Me
 
 - 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
+- 📧 Email: [rson73429@gmail.com]
 - 🌐 Portfolio: [Your Portfolio]
